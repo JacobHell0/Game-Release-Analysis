@@ -1,4 +1,9 @@
+# A Small Note
 Below is a small portion of the beginning of the Jupyter notebook, I encourage you to at least go through and look at the interesting graphics and the conclusions.
+
+
+<br> <br> <br> <br> <br>
+
 
 # ***Opening Act or Encore?***
 ## <span style="color:#83898b"> The Influence of Release Timing on Game Critiques </span> 
